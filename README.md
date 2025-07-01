@@ -1,1 +1,1 @@
-# ddd-prompt
+# ddd-prompts
